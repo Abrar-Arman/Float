@@ -1,0 +1,20 @@
+
+.team{
+  
+    background-color: #f8f8f8;
+    text-align: center;
+   
+ }
+ .team-member{
+     float: left;
+    width: 33.333%;
+ }
+ .clear{
+     clear: both;
+ }
+ .social-icon a i{
+     color: black;
+ }
+ p{
+     color: gray;
+ }
